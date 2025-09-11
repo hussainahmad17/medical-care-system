@@ -1,0 +1,46 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+
+# Logs
+logs
+*.log
+logs/*.log
+
+# Coverage
+coverage/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.swn
+*.swo
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Optional cache
+.cache/
+.next/
+config.bat
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
